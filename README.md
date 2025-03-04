@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-------
 I'm Luan Su, a student at Ho Chi Minh city University of Technology and Education.
  - The reason I study Information Technology to become a game moder. Now, I change my object to Deep Learning.
  - I do my research on Computer Vision, especially in Classification and 3D Reconstruction.
@@ -23,7 +22,10 @@ I'm Luan Su, a student at Ho Chi Minh city University of Technology and Educatio
 
 ### Languages
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-
+  ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch)
+  ![W&B](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat-square&logo=WeightsAndBiases)
+  ![Huggie](https://img.shields.io/badge/-HuggingFace-FDEE21?style=flat-square&logo=HuggingFace)
+  ![Csharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp)
 ### Technologies & Tools
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -32,3 +34,9 @@ I'm Luan Su, a student at Ho Chi Minh city University of Technology and Educatio
 
   ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 
+## 🔭 Publications
+ - [text](https://ieeexplore.ieee.org/document/10858900)
+
+## ⚡ GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luansu&layout=compact&count_private=true&theme=gruvbox" />
