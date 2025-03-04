@@ -36,7 +36,6 @@ I'm Luan Su, a student at Ho Chi Minh city University of Technology and Educatio
 
 ## 🔭 Publications
  - [Improving Skin Lesion Classification based on Fusion Multi-Learning Models](https://ieeexplore.ieee.org/document/10858900)
- - [embed]http://example.com/file.pdf[/embed]
 ## ⚡ GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luansu&layout=compact&count_private=true&theme=gruvbox" />
